@@ -51,7 +51,7 @@ Data source:
 ---
 
 ## Sensitivity Analysis
-![Sensitivity Analysis](Sensitivity.png)
+![Sensitivity Analysis](Sensititvity.png)
 
 ---
 
