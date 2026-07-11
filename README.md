@@ -26,7 +26,7 @@ Revenue Forecast
 ## Model Structure
 
 ### 1. Cover Page
-![Cover Page](Cover Page.png)
+![Cover Page](Cover_Page.png)
 
 ### 2. Historical Financial Data (FY2023A – FY2025A)
 
